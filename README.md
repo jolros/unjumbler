@@ -1,6 +1,6 @@
 # unjumbler
 
-unjumbler is a Clojure library that helps you solve [Jumble](http://en.wikipedia.org/wiki/Jumble) puzzles
+unjumbler is a Clojure library that helps you solve [Jumble](http://en.wikipedia.org/wiki/Jumble) puzzles (and find anagrams in general).
 
 ## Usage
 
