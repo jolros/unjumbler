@@ -1,4 +1,4 @@
-(ns unjumbler.c
+(ns unjumbler.core
   (:require [clojure.math.combinatorics :as combo]))
 
 (defn findwords
