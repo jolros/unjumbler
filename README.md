@@ -8,6 +8,6 @@ unjumbler is a Clojure library that helps you solve [Jumble](http://en.wikipedia
 (findwords "span")
 => ("span" "snap" "pans" "naps")
 
-(findwordlist '("itnga" "kaowe" "nucpha" "otlbet"))
-=> (("giant") ("awoke") ("paunch") ("bottle"))
+(findwords "span" "and" "pan")
+=> (("span" "snap" "pans" "naps") ("and") ("pan" "nap"))
 ```
